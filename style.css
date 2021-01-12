@@ -1,0 +1,79 @@
+body
+{
+    text-align: center;
+    background: linear-gradient( pink 0%,orange 100%);
+	background-repeat:no-repeat;
+}
+
+img
+{
+  border-radius:50%;
+  width:400px;
+  border: 3px solid black;
+  padding: 3px;
+}
+
+
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:20px;
+  font-size:25px !important;
+}
+p{
+  font-size:28px;
+  color:#1A237E;  
+    font-family: 'Great Vibes', cursive;
+}
+h2{
+  font-size:20px;
+  color:#1A237E;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+#bio{
+    padding:10px;
+    font-size:18px;
+    text-align:center;
+}
+#name{
+  color:#880E4F;
+font-family: 'Great Vibes', cursive;
+    font-size:30px !important;
+}
+.menu{
+   list-style: none;
+    font-family:cursive;
+   float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color:black;
+}
+
+.menu a{
+    color:black !important;
+}
+
+
+.link{
+    color:blue;
+    display: inline;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom: 5px;
+}
+
+
+   .link:hover
+{
+    background-color:lightblue;
+}
+#welcome{
+     padding:70px;
+    text-align:center:
+}
